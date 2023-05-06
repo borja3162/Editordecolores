@@ -1,6 +1,10 @@
 # Editordecolores
-Pequeño proyecto en Java que aplica filtros a imágenes centrado en modificar sus colores.
+Pequeño proyecto en Java que aplica filtros a imágenes, centrado en modificar sus colores. 
+El código tiene unas cuantas cosas que mejorar, como operaciones redundantes o una mejor gestion de errores/entradas de datos de tipo inesperado, pero ya cumplí con las intenciones que tenía.
 
+
+
+<br />
 
 Parte del código proviene de:
 
@@ -13,7 +17,7 @@ https://stackoverflow.com/questions/4801366/convert-rgb-values-to-integer
 
 https://www.tutorialspoint.com/how-to-get-pixels-rgb-values-of-an-image-using-java-opencv-library#:~:text=Retrieving%20the%20pixel%20contents%20(ARGB%20values)%20of%20an%20image%20%E2%88%92&text=Get%20the%20pixel%20value%20at,and%20getBlue()%20methods%20respectively.
 (La parte en la que se describe como leer valores RGB de un archivo)<br />
-
+<br />
 
 
 
