@@ -18,15 +18,15 @@ https://www.tutorialspoint.com/how-to-get-pixels-rgb-values-of-an-image-using-ja
 
 
 
-##RGBint
+**- RGBint**
 Esta clase modela un pixel
 Es muy sencilla y esta hecha para cambiar entre dos formatos para expresar los valores RGB que se usan, así como ser modificados de distintas maneras
 
-##RGBlector
+**- RGBlector**
 Aquí esta la mayoría del código. Por una parte, se usa para leer imágenes del ordenador y transformarlas en un array de RGBint (pixels). Por otra se usa para modificar la imagen de distintas maneras. Los efectos en general no son muy vistosos. Son filtros simples que sirven para suavizar los cambios de color, filtrar colores, o potenciarlos de distintas maneras.
 
 
-##Pruebas6
+**- Pruebas6**
 Aquí hay un ejemplo de código que cambiando simplemente el nombre y formato de la imagen (suponiendo que sea válida para el programa) le aplique diversas transformaciones. Estas se pueden modificar también con facilidad.
 
 
