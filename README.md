@@ -1,5 +1,5 @@
 # Editordecolores
-Pequeño proyecto en Java que aplica filtros a imágenes, centrado en modificar sus colores. 
+Pequeño proyecto en Java que aplica filtros a imágenes, centrado en modificar sus colores. <br />
 El código tiene unas cuantas cosas que mejorar, como operaciones redundantes o una mejor gestion de errores/entradas de datos de tipo inesperado, pero ya cumplí con las intenciones que tenía.
 
 
@@ -34,10 +34,10 @@ Aquí esta la mayoría del código. Por una parte, se usa para leer imágenes de
 Aquí hay un ejemplo de código que cambiando simplemente el nombre y formato de la imagen (suponiendo que sea válida para el programa) le aplique diversas transformaciones. Estas se pueden modificar también con facilidad.<br />
 
 
-Foto original:
+Foto original:<br />
 ![Im](/foto1.jpg)
 
-Tras ser transformada:
+Tras ser transformada:<br />
 
 ![Im](/foto1-filtro-2D.jpg)
 ![Im](/foto1-filtro-2D-gradientes.jpg)
